@@ -1,4 +1,5 @@
 # Route53 도메인 레코드 등록하기
+![ㅇ](https://github.com/chomming/aws-tomcat/assets/81208053/cd3ba3e0-b347-4453-8840-d649abf0a5db)
 
 # 대상 그룹에 인스턴스와 포트 등록하기
 - 일반적으로 대상 그룹 하나에 포트 하나 지정함
